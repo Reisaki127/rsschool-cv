@@ -4,10 +4,10 @@
 * Gmail: rayelsuper1@gmail.com
 * Github: Reisaki127
 * Discord username: Reisaki
-    +Discord username on RSS channels: Ivan Romanchuck(@Reisaki127)
+    + Discord username on RSS channels: Ivan Romanchuck(@Reisaki127)
 
 ## About myself
-I'm 17 years old, live in Belarus, Mogilev. Studying English, HTML and CSS.
+*I'm 17 years old, live in Belarus, Mogilev. Studying English, HTML and CSS.*
 
 ## Strengths
 * passion for learning
@@ -20,3 +20,10 @@ I'm 17 years old, live in Belarus, Mogilev. Studying English, HTML and CSS.
   + C++
 * ability to work with VScode
 
+## Education
+*General secondary*
+
+## Languages
+* English - A1 (learning B2)
+* Russian - native speaker
+* Belarusian - fluent
