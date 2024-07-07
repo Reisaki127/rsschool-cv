@@ -1,1 +1,81 @@
 
+*{margin: 0;}
+
+ul li{list-style: none;}
+
+a,a:visited,a:hover{text-decoration: none;}
+
+h1{
+    font-size: 40px;
+    margin: 5px 0;
+}
+
+h2{margin: 20px 0;}
+
+body{
+    font-size: 16px;
+    font-family: 'Jost', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: #3B3B3B;
+}
+
+a:hover{
+    color: #000000;
+    transition: all 0.3s ease;
+}
+
+a:active{color: #848484;}
+
+.header{
+    background-color: rgba(116, 140, 156, 0.49);
+    width: 70%;
+    margin: 0 auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.nav-list{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-item{
+    padding: 20px 15px;
+    font-size: 23px;
+}
+
+.section{
+    width: 70%;
+    margin: 15px auto;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    background-color: rgba(144, 173, 192, 0.308);
+}
+
+.main-info{
+    padding-bottom: 0;
+    display: flex;
+}
+
+.mine-info{
+    margin: 40px auto;
+}
+
+.ava{
+    padding: 50px;
+}
+
+.ava img{
+    width: 200px;
+    height: auto;
+    border-radius: 10%;
+}
